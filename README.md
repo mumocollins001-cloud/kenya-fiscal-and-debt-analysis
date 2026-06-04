@@ -73,6 +73,10 @@ dashboard/
 images/
 README.md
 ```
+## LinkedIn Post
+
+A summary of this project was shared on LinkedIn:
+[[LinkedIn Post URL]](https://www.linkedin.com/posts/collins-joseph-879414364_dataanalytics-python-powerbi-share-7468361254185689088-GBXp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFp5YN0BLg3Gxh9TdxiBTWxQWHvaFrOxwn0)
 
 ## Author
 
